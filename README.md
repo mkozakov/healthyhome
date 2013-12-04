@@ -1,9 +1,11 @@
 HealthyHome
 ===========
 
-The HealthyHome project looks to develop an interactive mapping platform that would display sub-standard housing complaints captured by a number of outreach techniques (door to door, flyers, on line eblasts, and more) that would be sent into the interactive map through text messaging and through a web browser. The information would include minimum criteria to be determined, such as: mold and pest infestation, unit disrepair, heat problems, and security issues. The data will be displayed on a Google Map. The purpose of the interactive map would be to expose the huge amount of housing problems that exist in large Canadian Cities. Toronto will serve as a pilot site with the aim of broadening the project to Ottawa and eventually nation-wide. HealthyHome is a sister website of [Acorn Canada](https://www.acorncanada.org/).
+[Live Website](http://acornhh.herokuapp.com)
 
-[Live Website](acornhh.herokuapp.com)
+
+HealthyHome - is a sister website of [Acorn Canada](https://www.acorncanada.org/), which allows tenants from low income families to publically complain about their living conditions.
+
 
 ### Requirements
 - Google Maps API
